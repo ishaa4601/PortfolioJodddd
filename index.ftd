@@ -41,7 +41,7 @@ cta-item2-link: /portfolio/resume
 ;; -----------------------------------------------------
 
 -- toast.stack:
-title: Hello, I'm aspiring fastn developer based in India
+title: Hello, I'm aspiring Developer of Medi-Caps
 link: https://github.com/YOUR_GITHUB_USERNAME
 
 ;; -----------------------------------------------------
@@ -69,7 +69,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Ankit,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
