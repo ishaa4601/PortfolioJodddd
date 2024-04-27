@@ -116,7 +116,7 @@ link: https://twitter.com/YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/ishaa4601
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
